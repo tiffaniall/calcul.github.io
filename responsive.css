@@ -1,0 +1,87 @@
+/* Untuk Tablet */
+@media (max-width: 1000px) {
+  .top-wrapper h1 {
+    font-size: 30x;
+  }
+
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
+
+/* Untuk Smartphone */
+@media (max-width: 670px) {
+  lesson {
+    width: 100%;
+  }
+
+  .header-left li {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .facebook {
+    margin-bottom: 10px;
+  }
+
+  .top-wrapper {
+    text-align: left;
+    padding-top: 130px;
+  }
+
+  .top-wrapper h1 {
+    font-size: 40px;
+  }
+
+  .top-wrapper p {
+    font-size: 22px;
+  }
+
+  .lesson p {
+    font-size: 60px;
+  }
+  span.menu-icon {
+        display: block;
+    }
+
+    .header-content {
+        display: none;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    .contact-form{
+      padding: 10px;
+    }
+
+  .contact-form input{
+    width: 100%;
+    
+  }
+
+  .contact-form textarea{
+    width: 100%;
+    
+  }
+
+  .lesson-icon{
+    animation: none;
+  }
+
+  .lesson p{
+    font-size: 20px;
+    margin-top: 30px;
+  }
+}
+
+
